@@ -26,7 +26,7 @@ An end-to-end clinical intelligence system that transforms raw medical data into
 
 ### 2. Business Intelligence (Power BI)
 * **DAX Modeling:** Created complex measures for Survival Rate and Mortality KPIs.
-* **Interactive UI:** Developed a glassmorphism-inspired dashboard for filtering by (Age, Sex, Clinical Condition).
+* **Interactive UI:** Developed a functional, data-driven dashboard optimized for clinical filtering by Age, Sex, and Clinical Conditions, ensuring clear communication of patient survival insights.
 * **Clinical Profiling:** Visualized the impact of Chronic diseases (Anaemia, Diabetes) on patient outcomes.
 
 ---
