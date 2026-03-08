@@ -51,6 +51,7 @@ An end-to-end clinical intelligence system that transforms raw medical data into
 
 ## 🎨 Dashboard Preview
 
+![Heart Disease Analytics Dashboard](https://raw.githubusercontent.com/Maryam-Helal/Date_Analysis_Heart_Disease_Dashboard/main/review.png)
 
 ---
 
